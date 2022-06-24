@@ -1,5 +1,8 @@
-### Hola a todos 👋
-ggg
+### BIENVENIDOS👋
+<center><img src="https://wallpaperaccess.com/data-analyst"></center>
+Mi nombre es Huber Van Hancco Medina
+Estudio ingenieria de telecomunicaciones en UNSA
+
 <!--
 **Huber-Van/Huber-Van** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
