@@ -1,6 +1,6 @@
 ### <center> BIENVENIDOS A MI REPOSITORIO </center>
 #### Soy Huber Van Hancco Medina
-#### Realizo trabajos con el lenguaje de programacion Pyhton
+#### Realizo trabajos con el lenguaje de programacion Python
 <center><img src="https://wallpaperaccess.com/full/3959399.jpg"></center>
 
 ### CONTÁCTAME
