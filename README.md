@@ -1,5 +1,5 @@
 ### <center> ✨✨✨✨✨ BIENVENIDOS A MI REPOSITORIO WEB ✨✨✨✨✨</center>
-#### 👉👉👉👉 Soy Huber Van Hancco Medina 👈👈👈👈
+#### 👉👉👉👉 Soy Huber Van Hancco Medina 👍👍👍👍👍
 #### Realizo trabajos con el lenguaje de programacion Python orientado a la ciencia de datos y aprendizaje automático
 <center><img src="https://crehana-blog.imgix.net/media/filer_public/e8/fb/e8fbdb68-fc40-4ae6-b939-19f9f9259d2c/que-es-python.jpg" width="1100" heigth="10"></center>
 
